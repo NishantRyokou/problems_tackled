@@ -1,4 +1,6 @@
-//Tic Tac Toe
+// tic tac toe : This C++ program implements Tic-Tac-Toe with a minimax algorithm. The board is initialized, displayed, 
+//and checked for wins across rows, columns, or diagonals. The computer uses minimax to choose optimal moves,
+//while the human inputs positions. The game alternates turns until a win or draw is declared.
 #include<bits/stdc++.h>
 #include<algorithm>
 using namespace std;
